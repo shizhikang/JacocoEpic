@@ -1,0 +1,2 @@
+include ':app', ':library', ':javahook', ':dexmaker'
+rootProject.name = "Jacoco-Epic"
